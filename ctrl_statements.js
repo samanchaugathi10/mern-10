@@ -47,6 +47,7 @@ if(daynum=1){
     console.log('saturday')
 }
 
+//Switch Statement
 switch(daynum){
     case 1:
         console.log('sunday');
