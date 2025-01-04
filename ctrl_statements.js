@@ -47,6 +47,7 @@ if ((daynum = 1)) {
   console.log("saturday");
 }
 
+<<<<<<< HEAD
 switch (daynum) {
   case 1:
     console.log("sunday");
@@ -55,3 +56,14 @@ switch (daynum) {
     console.log("monday");
     break;
 }
+=======
+//Switch Statement
+switch(daynum){
+    case 1:
+        console.log('sunday');
+        break;
+        case 2:
+        console.log('monday');
+        break;
+}
+>>>>>>> 242b63fb31f27dc899b2af044d0ee707673c8dd3
