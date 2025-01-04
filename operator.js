@@ -49,5 +49,5 @@ console.log(obj3.phone);
 
 let username='saman'
 let labno=10
-let emailtemp="Dear ${usename},your session is at ${labno}"
+let emailtemp='Dear ${username},your session is at ${labno}"
 console.log(emailtemp)

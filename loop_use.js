@@ -15,5 +15,4 @@ for(i=0;i<person.length;i++){
     console.log('address:'+person[i].address);
     console.log('Number':+person[i].phone);
     console.log('----------------')
-
-}
+    
