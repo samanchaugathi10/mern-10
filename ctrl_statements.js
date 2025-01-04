@@ -46,3 +46,12 @@ if(daynum=1){
 }else{
     console.log('saturday')
 }
+
+switch(daynum){
+    case 1:
+        console.log('sunday');
+        break;
+        case 2:
+        console.log('monday');
+        break;
+}
